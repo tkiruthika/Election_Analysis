@@ -1,6 +1,9 @@
-# Election_Analysis
+# Election Analysis Challenge
 
-## Project Overview
+## Overview
+
+The overview of this challenge is to write algorithms using Python that will assist the confirmation and analysis of election results.
+
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -10,30 +13,12 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
+
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-## Summary
-
-The analysis of the election show that:
-
-- There were **369,711** votes cast in the election.
-- The candidates were:
-    - Charles Casper Stockham
-    - Diana DeGette
-    - Raymon Anthony Doane
-- The candidate results were:
-    - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
-    - Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
-    - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
-- The winner of the election was:
-    - Diana DeGette who received "73.8%" of the vote and "272,892" number of votes.
-   
-# Election Analysis Challenge
-## Overview
-The overview of this challenge is to write algorithms using Python that will assist the confirmation and analysis of election results.
-
 ### Purpose
+
 The purpose of this challenge is to audit the election results and accomplish the additional data requested by the election commission.
   - The voter turnout for each county.
   - The percentage of votes from each county out of the total count.
@@ -370,6 +355,7 @@ The command line output of the above code is
 ![ch_out](https://user-images.githubusercontent.com/95719819/150657429-4544b683-b545-475e-82c3-b902a59165f1.png)
 
 # Election-Audit Results
+
 The analysis of the election show that:
 - There were **369,711** votes cast in the election.
 - The counties were:
@@ -394,6 +380,7 @@ The analysis of the election show that:
     - Diana DeGette who received "73.8%" of the vote and "272,892" number of votes.
 
 # Election Audit Summary
+
 We summarize this challenge with the business proposal to the election comission. We propose that we can use this code to analyse any election in the future successfully by adding script to this code
   - To get the vote count for the candidate from each county.
   - To get the county name of the winning candidate.
