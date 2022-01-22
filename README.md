@@ -389,7 +389,6 @@ The analysis of the election show that:
     - Diana DeGette who received "73.8%" of the vote and "272,892" number of votes.
 
 # Election Audit Summary
-We summarize this challenge with the business proposal to the election comission
-    
-    - To get the vote count of the candidates from each county.
+We summarize this challenge with the business proposal to the election comission. We propose that we can use this code to analyse any election in the future successfully. We can add script to this code  
+    - To get the vote count of the candidate from each county.
     - To get the county name of the winning candidate.
